@@ -3,8 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-DNN-green?logo=opencv)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-pink)](https://github.com/adrien-ldg)
 
 ---
 
